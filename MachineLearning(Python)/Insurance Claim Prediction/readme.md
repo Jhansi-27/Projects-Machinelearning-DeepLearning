@@ -21,7 +21,7 @@ This is the link to notebook for [Task 1 Classification](https://github.com/Jhan
   <li>This helps companies to identify the customers, who are filing high claim and potential reasons for the claim filed on these ocassions.</li>
   </ul>
   
-This is the link to notebook for [Task 2](https://github.com/Jhansi-27/Machine_Learning/blob/main/Predicting_ClaimValue_Regression.ipynb)
+This is the link to notebook for [Task 2 Regression](https://github.com/Jhansi-27/Machine_Learning/blob/main/Predicting_ClaimValue_Regression.ipynb)
 
 
   
