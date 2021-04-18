@@ -10,8 +10,10 @@ data will be generated automatically.</li>
 <ol>
 <li>The neural network should be coded using pure Python without use of any libraries except Numpy,pandas,math</li>
 <li>The neural network should perform both  Feed-Forward & Backpropagation</li>
+  <ul>
   <li>Inputs:  X position to target, Y position to target</li>
   <li>Outputs: NewVelocity X, NewVelocity Y</li>
+  </ul>
 <li>Train the neural network created (offline training ~100 epochs) with the data collected by playing lander game.</li>
 <li>Test the neural network by running the most recent weights (just feedforward) to see how the lander performs and 
 compute the Root Mean Squared Error.</li></ol>
