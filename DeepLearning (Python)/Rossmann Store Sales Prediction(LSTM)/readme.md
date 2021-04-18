@@ -1,16 +1,16 @@
 <h2>Design a DeepNeuralNetwork to forecast future sales of Rossmann super store using its historical data</h2>
-
-Historical sales data for 1,115 Rossmann stores is available on kaggle. The task is to forecast the "Sales" column for the test set. 
-The dataset can be downloaded using the following link [](https://www.kaggle.com/c/rossmann-store-sales).
-
-Files
+<ul>
+<li>Historical sales data for 1,115 Rossmann stores is available on kaggle. The task is to forecast the "Sales" column for the test set.</li>
+<li>The dataset can be downloaded using the following link [](https://www.kaggle.com/c/rossmann-store-sales).</li>
+</ul>
+#### Files
 ```
 train.csv - historical data including Sales
 test.csv - historical data excluding Sales
 sample_submission.csv - a sample submission file in the correct format
 store.csv - supplemental information about the stores
 ```
-Data fields
+#### Data fields
 ```
 Id - an Id that represents a (Store, Date) duple within the test set
 Store - a unique Id for each store
