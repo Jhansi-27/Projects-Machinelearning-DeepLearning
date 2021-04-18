@@ -35,10 +35,10 @@ PromoInterval - describes the consecutive intervals Promo2 is started, naming th
 #### This repository contains 3 pythonfiles.
 
 <ol>
-<li>[RossmannStore_EDA_DataTransformation.ipynb file](https://github.com/Jhansi-27/University-Projects-Machinelearning-DeepLearning/blob/main/DeepLearning%20(Python)/Rossmann%20Store%20Sales%20Prediction(LSTM)/RossmannStore_EDA_DataTransformation.ipynb
-
-), in which which EDA, data preprocessing and data transfromation has been performed on train and test datasets.</li>
-<li>[lstm.py](https://github.com/Jhansi-27/University-Projects-Machinelearning-DeepLearning/blob/main/DeepLearning%20(Python)/Rossmann%20Store%20Sales%20Prediction(LSTM)/lstm.py
+  
+<li>RossmannStore_EDA_DataTransformation.ipynb, in which which EDA, data preprocessing and data transfromation has been performed on train and test datasets.</li>
+  
+<li>lstm.py(https://github.com/Jhansi-27/University-Projects-Machinelearning-DeepLearning/blob/main/DeepLearning%20(Python)/Rossmann%20Store%20Sales%20Prediction(LSTM)/lstm.py
 ) This program takes processed data and trains LSTM model, to predict future sales 6 weeks in advance and saves the model</li>
-<li>[lstm_predict.py](https://github.com/Jhansi-27/University-Projects-Machinelearning-DeepLearning/blob/main/DeepLearning%20(Python)/Rossmann%20Store%20Sales%20Prediction(LSTM)/lstm_predict.py) This programs reads the saved model and makes predictions on test data for submission on kaggle</li>
+<li>lstm_predict.py(https://github.com/Jhansi-27/University-Projects-Machinelearning-DeepLearning/blob/main/DeepLearning%20(Python)/Rossmann%20Store%20Sales%20Prediction(LSTM)/lstm_predict.py) This programs reads the saved model and makes predictions on test data for submission on kaggle</li>
 </ol>
