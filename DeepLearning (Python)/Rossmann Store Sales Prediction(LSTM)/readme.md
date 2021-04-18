@@ -33,6 +33,7 @@ Promo2Since[Year/Week] - describes the year and calendar week when the store sta
 PromoInterval - describes the consecutive intervals Promo2 is started, naming the months the promotion is started anew. E.g. "Feb,May,Aug,Nov" means each round starts in February, May, August, November of any given year for that store
 ```
 #### This repository contains 3 pythonfiles.
+
 <ol>
 <li>[RossmannStore_EDA_DataTransformation.ipynb file](https://github.com/Jhansi-27/University-Projects-Machinelearning-DeepLearning/blob/main/DeepLearning%20(Python)/Rossmann%20Store%20Sales%20Prediction(LSTM)/RossmannStore_EDA_DataTransformation.ipynb
 
