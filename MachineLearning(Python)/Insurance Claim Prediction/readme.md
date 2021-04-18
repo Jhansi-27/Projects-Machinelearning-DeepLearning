@@ -12,12 +12,14 @@ increase their profits by spending their funds wisely.
   <li>The crucial question here is to find    who are their target customers, the answer is to analyse their previous customers data and target those customers who are less likely to make a claim after their travel.
   <li>By doing this, company can retain these customers on longrun by offering them discounted premium. This enhances the customer's interest in the company and reduces the customer churn. Also, company can benefit from only offering discounts to their target customers and not wasting thier money on non-potential customers. </li>
   <li>Analysing previous customers data and identifying trends helps company to comeup with new strategies to attract new customers and retain thier old customers.</li>
-  <li>This task is solved in []().</li>
+- First task is solved in []().</li>
    </ul>
   <li>The second task many companies are presented with is, to acess how much money the customer is likely to cliam after his/her travel?</li>
-  - Based on previous travel history of the customer with the company, we need to predict if a customer files a claim how much the amount going to be!
-  - This helps companies to identify the customers, who are filing high claim and potential reasons for the claim filed on these ocassions.
-  - This task is solved in []().
+  <ul>
+  <li>Based on previous travel history of the customer with the company, we need to predict if a customer files a claim how much the amount going to be!</li>
+  <li>This helps companies to identify the customers, who are filing high claim and potential reasons for the claim filed on these ocassions.</li>
+  </ul>
+- Second task is solved in []().
 </ol>
 
   
