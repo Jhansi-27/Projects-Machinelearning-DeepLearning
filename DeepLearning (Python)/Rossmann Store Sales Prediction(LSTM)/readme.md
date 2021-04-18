@@ -32,3 +32,9 @@ Promo2 - Promo2 is a continuing and consecutive promotion for some stores: 0 = s
 Promo2Since[Year/Week] - describes the year and calendar week when the store started participating in Promo2
 PromoInterval - describes the consecutive intervals Promo2 is started, naming the months the promotion is started anew. E.g. "Feb,May,Aug,Nov" means each round starts in February, May, August, November of any given year for that store
 ```
+#### This repository contains 3 pythonfiles.
+<ol>
+<li>[RossmannStore_EDA_DataTransformation.ipynb file](), in which which EDA, data preprocessing and data transfromation has been performed on train and test datasets.</li>
+<li>[lstm.py]() This program takes processed data and trains LSTM model, to predict future sales 6 weeks in advance and saves the model</li>
+<li>[lstm_predict.py]() This programs reads the saved model and makes predictions on test data for submission on kaggle</li>
+</ol>
