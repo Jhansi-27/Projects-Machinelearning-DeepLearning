@@ -12,3 +12,5 @@ in setting a price for house. </li>
   <li><b>Create Classification models that can predict the overall condition of the houses based on given features.</b></li>
   <li><b>Create regression models that are ready to accurately estimate the price of a featured house.</b></li>
  </ol>
+ 
+ Detailed description of project can be found [here](https://github.com/Jhansi-27/Projects-Machinelearning-DeepLearning/blob/main/R%20(Machine%20Learning)/HousePrice_Prediction/MA321%20Group%2011%20Course%20Work.pdf)
