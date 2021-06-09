@@ -13,7 +13,7 @@ increase their profits by spending their funds wisely.
   <li>Analysing previous customers data and identifying trends helps company to comeup with new strategies to attract new customers and retain thier old customers.</li> 
 </ul>
   
-This is the link to notebook for [Task 1 Classification](https://github.com/Jhansi-27/Machine_Learning/blob/main/Insurance_Claim_Classifiication.ipynb)
+This is the link to notebook for [Task 1 Classification](https://github.com/Jhansi-27/Projects-Machinelearning-DeepLearning/blob/main/MachineLearning(Python)/Insurance%20Claim%20Prediction/Classification_Insurance_Claim.ipynb)
   
  #### The second task many companies are presented with is, to acess how much money the customer is likely to cliam after his/her travel?
   <ul>
@@ -21,7 +21,7 @@ This is the link to notebook for [Task 1 Classification](https://github.com/Jhan
   <li>This helps companies to identify the customers, who are filing high claim and potential reasons for the claim filed on these ocassions.</li>
   </ul>
   
-This is the link to notebook for [Task 2 Regression](https://github.com/Jhansi-27/Machine_Learning/blob/main/Predicting_ClaimValue_Regression.ipynb)
+This is the link to notebook for [Task 2 Regression](https://github.com/Jhansi-27/Projects-Machinelearning-DeepLearning/blob/main/MachineLearning(Python)/Insurance%20Claim%20Prediction/Regression_Insurance_Claimvalue_Prediction.ipynb)
 
 
   
