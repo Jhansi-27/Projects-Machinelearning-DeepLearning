@@ -33,7 +33,7 @@ Promo2Since[Year/Week] - describes the year and calendar week when the store sta
 PromoInterval - describes the consecutive intervals Promo2 is started, naming the months the promotion is started anew. E.g. "Feb,May,Aug,Nov" means each round starts in February, May, August, November of any given year for that store
 ```
 #### This repository contains 3 pythonfiles.
-- [RossmannStore_EDA_DataTransformation.ipynb](https://github.com/Jhansi-27/University-Projects-Machinelearning-DeepLearning/blob/main/DeepLearning%20(Python)/Rossmann%20Store%20Sales%20Prediction(LSTM)/RossmannStore_EDA_DataTransformation.ipynb), in which which EDA, data preprocessing and data transfromation has been performed on train and test datasets.
+- [RossmannStore_EDA_DataTransformation.ipynb](https://github.com/Jhansi-27/University-Projects-Machinelearning-DeepLearning/blob/main/DeepLearning%20(Python)/Rossmann%20Store%20Sales%20Prediction(LSTM)/RossmannStore_EDA_DataTransformation.ipynb) : This file contans EDA, data preprocessing and data transfromation on train and test datasets.
   
 - [lstm.py](https://github.com/Jhansi-27/University-Projects-Machinelearning-DeepLearning/blob/main/DeepLearning%20(Python)/Rossmann%20Store%20Sales%20Prediction(LSTM)/lstm.py
 ) This program takes processed data and trains LSTM model on training data and saves the model
