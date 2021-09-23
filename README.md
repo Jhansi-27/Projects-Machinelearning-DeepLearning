@@ -1,6 +1,6 @@
 # Projects - Machinelearning-DeepLearning
 
-This repository contains various machine learning and deep learning projects done for university assignments (MSc DataScience).
+This repository contains various machine learning and deep learning projects.
 
 | Field Name                                   | Description |
 | ---------------------------------------------| -----------  |
